@@ -1,0 +1,11 @@
+lr:0.000050, bsz:16, result:0.812227
+lr:0.000020, bsz:16, result:0.877966
+lr:0.000050, bsz:16, result:0.893401
+lr:0.000050, bsz:16, result:0.839546
+lr:0.000050, bsz:16, result:0.859619
+lr:0.000050, bsz:16, result:0.857143
+lr:0.000050, bsz:16, result:0.881119
+lr:0.000050, bsz:16, result:0.884034
+lr:0.000050, bsz:16, result:0.894198
+lr:0.000050, bsz:16, result:0.646209
+lr:0.000050, bsz:16, result:0.660650

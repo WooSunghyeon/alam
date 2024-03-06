@@ -1,0 +1,13 @@
+#include <torch/extension.h>
+
+#include "ext_common.h"
+
+std::pair<torch::Tensor, torch::Tensor> minimax_cuda(torch::Tensor data);
+
+std::pair<torch::Tensor, torch::Tensor> minimax(torch::Tensor data) {
+  return minimax_cuda(data);
+}
+
+PYBIND11_MODULE(TORCH_EXTENSION_NAME, m) {
+  m.def("minimax", &minimax);
+}

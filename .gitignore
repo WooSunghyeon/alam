@@ -1,0 +1,11 @@
+# Python bytecode
+*.pyc
+
+# Shared library files
+*.so
+
+# some files
+benchmark/llm/lit_llama.egg-info/
+benchmark/llm/data/
+benchmark/llm/out/
+build/
