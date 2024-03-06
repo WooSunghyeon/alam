@@ -63,12 +63,11 @@ controller.uninstall_hook()
 ```
 ## Results
 
-### 1. Text classification
-![results_text_classification](https://github.com/KH9NHAKRFF/ALAM/assets/144604248/f4b1d640-eb85-4611-a687-a2789de0fdbb)
+### 1. Accuracy on fine-tuned LLMs by ALAM (LLaMA-2)
+![Fig1](https://github.com/WooSunghyeon/alam/assets/85105077/96a7ba98-1025-481b-a2d3-5a82ce010772)
 
-
-### 2. Large Language Models
-![results_llm](https://github.com/KH9NHAKRFF/ALAM/assets/144604248/e33d8fad-2380-4653-abb8-c131da9861f0)
+### 2. Training memory on fine-tuned LLMs by ALAM
+![Fig2](https://github.com/WooSunghyeon/alam/assets/85105077/c146cedc-b341-4ebd-9479-60f4daa5d0f9)
 
 
 ## Example
